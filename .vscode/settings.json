@@ -1,0 +1,6 @@
+
+{
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "notebook.cellFailureDiagnostics": false,
+    "python.analysis.typeCheckingMode": "off"
+}
